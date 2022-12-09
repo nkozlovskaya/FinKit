@@ -1,3 +1,6 @@
+
+ [Demo](https://nkozlovskaya.github.io/FinKit/).
+
 Требования:
 
 - верстка на чистом HTML/CSS (без фреймворков, систем сборки и т.д.);
