@@ -1,5 +1,5 @@
 
- [Demo](https://nkozlovskaya.github.io/FinKit/).
+ [Demo](https://nkozlovskaya.github.io/FinKit).
 
 Требования:
 
